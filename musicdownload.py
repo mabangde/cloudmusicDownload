@@ -17,7 +17,7 @@ import requests
 COOKIE_FILE = "cookie.txt"
 BASE_DOWNLOAD_DIR = "./download"
 
-PLAYLIST_IDS = [13844871092,8197425038]
+PLAYLIST_IDS = [13743018730]
 SONG_IDS = []
 QUALITY = "mp3"
 
